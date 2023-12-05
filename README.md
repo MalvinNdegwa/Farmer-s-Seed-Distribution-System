@@ -7,3 +7,8 @@ this information the companies can easily provide their products
 to the farmers. Farmers have the ability to verify whether a packaged seed is from a verified distributor or counterfeit by keying in a verification code.
 The system also offers agronomy tips to farmers
 across the country.
+
+#Getting Started
+To run the project locally the following steps should be followed
+
+
