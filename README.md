@@ -8,7 +8,7 @@ to the farmers. Farmers have the ability to verify whether a packaged seed is fr
 The system also offers agronomy tips to farmers
 across the country.
 
-#Getting Started
+# Getting Started
 To run the project locally the following steps should be followed
 
 
