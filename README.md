@@ -9,6 +9,12 @@ The system also offers agronomy tips to farmers
 across the country.
 
 # Getting Started
-To run the project locally the following steps should be followed
+To run the project locally the following steps should be followed:
+
+## Prerequisites
+Xampp application is used as a local server to run the project. You can download xampp through this link:
+https://www.apachefriends.org/download.html
+
+
 
 
