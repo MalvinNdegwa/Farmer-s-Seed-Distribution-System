@@ -15,6 +15,13 @@ To run the project locally the following steps should be followed:
 Xampp application is used as a local server to run the project. You can download xampp through this link:
 https://www.apachefriends.org/download.html
 
+## Installation
+
+# Working Demo
+## Farmer Use Case
+## Seed Company Use Case
+
+
 
 
 
