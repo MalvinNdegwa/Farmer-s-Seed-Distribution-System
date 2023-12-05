@@ -1,4 +1,4 @@
-# Farmer-s-Seed-Distribution-System
+# Description
 End of year 2 semester project using html, CSS and PHP that
 intends to bridge the gap between farmers and seed distributor
 companies. Farmers can order the seed directly to the
