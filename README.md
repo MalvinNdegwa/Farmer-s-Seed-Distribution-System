@@ -32,6 +32,7 @@ Copy or move the cloned project files into the XAMPP web server directory (typic
 4. Start Xampp
    
 Launch XAMPP and start the Apache server.
+
 5. Access the Project:
 
 Open a web browser and navigate to http://localhost/your-project.
