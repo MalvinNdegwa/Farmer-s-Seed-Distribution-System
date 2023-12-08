@@ -23,8 +23,8 @@ Follow the installation instructions provided on the website.
 
 2. Clone the Repository:
    ```
-   git clone https://github.com/your-username/your-project.git
-
+   git clone https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System
+   
 3. Move Project Files:
    
 Copy or move the cloned project files into the XAMPP web server directory (typically located in the "htdocs" folder).
