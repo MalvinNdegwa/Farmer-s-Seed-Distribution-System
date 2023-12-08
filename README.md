@@ -30,6 +30,18 @@ https://www.apachefriends.org/download.html
 
 <img width="381" alt="Screenshot 2023-12-08 120958" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/60071ed2-f525-4b54-85ff-5f73fab246d8">
 
+## Farmer Login Initial Landing Page 
+
+<img width="656" alt="Screenshot 2023-12-08 121616" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/e5ff9bb5-dd85-4a5e-8535-6ee548084bf2">
+
+### Farmer Make Order Functionality
+Allows the Farmer to place an order directly to the seed companies of their choice
+
+<img width="355" alt="Screenshot 2023-12-08 121827" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/0fd4d493-79cd-4cf7-8292-43362a92d451">
+
+
+
+
 
 
 
