@@ -34,10 +34,34 @@ https://www.apachefriends.org/download.html
 
 <img width="656" alt="Screenshot 2023-12-08 121616" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/e5ff9bb5-dd85-4a5e-8535-6ee548084bf2">
 
-### Farmer Make Order Functionality
+### Farmer - Make Order Functionality
 Allows the Farmer to place an order directly to the seed companies of their choice
 
 <img width="355" alt="Screenshot 2023-12-08 121827" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/0fd4d493-79cd-4cf7-8292-43362a92d451">
+
+### Farmer - Landing Page After Placing Order
+The system Provides the farmer with a confirm delivery action button that once when clicked the status changes to delivered and cannot be changed back.
+
+<img width="822" alt="Screenshot 2023-12-08 122400" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/c4fc8577-7c90-4b60-b97e-ed2b62f43c1e">
+
+## Seed Company Landing Page
+The Seed Companies portal enables a seed company to add various seeds to their inventory, search seeds using the seed code as the criteria, update and delete seed records and finally view current customer orders.
+
+<img width="457" alt="Screenshot 2023-12-08 122946" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/4159ee45-5397-4298-948b-e59bbbb95589">
+
+### Seed company - Add New Seed Functionality
+This allows the seed companies to update the system with their current seed inventory
+
+<img width="416" alt="Screenshot 2023-12-08 123720" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/40d81c0b-37f8-4927-9627-ec28b7938de1">
+
+
+### Seed Company - View Customer Order Functionality
+This allows each of the seed companies to view their respective orders and status of each order whether delivered or not
+
+<img width="662" alt="Screenshot 2023-12-08 123342" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/49b7ddb0-c2b8-420d-bf36-f1c020b05547">
+
+
+
 
 
 
