@@ -25,6 +25,7 @@ Follow the installation instructions provided on the website.
    git clone https://github.com/your-username/your-project.git
 
 4. Move Project Files:
+   
 Copy or move the cloned project files into the XAMPP web server directory (typically located in the "htdocs" folder).
 
 5. Start Xampp
