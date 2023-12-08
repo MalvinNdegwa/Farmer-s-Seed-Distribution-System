@@ -40,7 +40,7 @@ Allows the user to login depending on whether they registered as farmers or as a
 <img width="656" alt="Screenshot 2023-12-08 121616" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/e5ff9bb5-dd85-4a5e-8535-6ee548084bf2">
 
 ### Farmer - Make Order Functionality
-Allows the Farmer to place an order directly to the seed companies of their choice
+Allows the Farmer to place an order directly to the seed companies of their choice.
 
 <img width="355" alt="Screenshot 2023-12-08 121827" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/0fd4d493-79cd-4cf7-8292-43362a92d451">
 
@@ -48,6 +48,13 @@ Allows the Farmer to place an order directly to the seed companies of their choi
 The system Provides the farmer with a confirm delivery action button that once when clicked the status changes to delivered and cannot be changed back.
 
 <img width="822" alt="Screenshot 2023-12-08 122400" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/c4fc8577-7c90-4b60-b97e-ed2b62f43c1e">
+
+### Farmer - Agronomy Tips
+This module aims to educate farmers on the various varieties of seed, the optimum regions for each and the special attributes for all of them.
+
+<img width="941" alt="Screenshot 2023-12-08 125331" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/74f3926d-f522-4b4a-a543-68038df10b5d">
+
+<img width="934" alt="Screenshot 2023-12-08 125356" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/ca07b159-567b-4820-98a6-2c012db4a044">
 
 ## Seed Company Landing Page
 The Seed Companies portal enables a seed company to add various seeds to their inventory, search seeds using the seed code as the criteria, update and delete seed records and finally view current customer orders.
@@ -64,6 +71,7 @@ This allows the seed companies to update the system with their current seed inve
 This allows each of the seed companies to view their respective orders and status of each order whether delivered or not
 
 <img width="662" alt="Screenshot 2023-12-08 123342" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/49b7ddb0-c2b8-420d-bf36-f1c020b05547">
+
 
 
 
