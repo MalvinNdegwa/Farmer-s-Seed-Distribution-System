@@ -11,11 +11,26 @@ across the country.
 # Getting Started
 To run the project locally the following steps should be followed:
 
-## Prerequisites
-Xampp application is used as a local server to run the project. You can download xampp through this link:
-https://www.apachefriends.org/download.html
+## Requiremnts
+1. XAMPP
+2. Web Browser e.g (Chrome, Firefox etc)
 
 ## Installation
+1. Download and Install XAMPP:
+Visit the XAMPP official website (https://www.apachefriends.org/index.html) and download the appropriate version for your operating system.
+Follow the installation instructions provided on the website.
+
+3. Clone the Repository:
+   ```
+   git clone https://github.com/your-username/your-project.git
+
+4. Move Project Files:
+Copy or move the cloned project files into the XAMPP web server directory (typically located in the "htdocs" folder).
+
+5. Start Xampp
+Launch XAMPP and start the Apache server.
+6. Access the Project:
+Open a web browser and navigate to http://localhost/your-project.
 
 # Screenshots
 ## Registration Module
