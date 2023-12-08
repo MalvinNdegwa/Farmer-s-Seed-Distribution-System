@@ -21,6 +21,9 @@ https://www.apachefriends.org/download.html
 ## Farmer Use Case
 ## Seed Company Use Case
 
+<img width="376" alt="Screenshot 2023-12-08 115543" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/5b648c3a-d50a-4605-8e5f-0c701c64050b">
+
+
 
 
 
