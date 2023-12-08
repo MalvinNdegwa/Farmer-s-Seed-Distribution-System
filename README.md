@@ -17,11 +17,19 @@ https://www.apachefriends.org/download.html
 
 ## Installation
 
-# Working Demo
-## Farmer Use Case
-## Seed Company Use Case
+# Screenshots
+## Registration Module
 
 <img width="376" alt="Screenshot 2023-12-08 115543" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/5b648c3a-d50a-4605-8e5f-0c701c64050b">
+
+### Registration - farmer
+
+<img width="365" alt="Screenshot 2023-12-08 120804" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/49ea3504-186f-4b73-baaf-d29d1f830867">
+
+### Registration - Seed Company
+
+<img width="381" alt="Screenshot 2023-12-08 120958" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/60071ed2-f525-4b54-85ff-5f73fab246d8">
+
 
 
 
