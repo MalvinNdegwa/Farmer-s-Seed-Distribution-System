@@ -30,6 +30,11 @@ https://www.apachefriends.org/download.html
 
 <img width="381" alt="Screenshot 2023-12-08 120958" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/60071ed2-f525-4b54-85ff-5f73fab246d8">
 
+## Login Page
+Allows the user to login depending on whether they registered as farmers or as a Seed Company
+
+<img width="460" alt="Screenshot 2023-12-08 123930" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/888e48dd-6656-42e2-a5a8-4e71bee3e59c">
+
 ## Farmer Login Initial Landing Page 
 
 <img width="656" alt="Screenshot 2023-12-08 121616" src="https://github.com/MalvinNdegwa/Farmer-s-Seed-Distribution-System/assets/105773889/e5ff9bb5-dd85-4a5e-8535-6ee548084bf2">
