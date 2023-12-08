@@ -36,7 +36,7 @@ Launch XAMPP and start the Apache server.
 5. Access the Project:
 
 Open a web browser and navigate to
-```
+
 http://localhost/Farmer-s-Seed-Distribution-System-main/website.html
 
 
